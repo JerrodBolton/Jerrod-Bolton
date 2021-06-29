@@ -1,11 +1,11 @@
  # Markdown 
  
  ## Hey do you like to code?
- > Yes, but I don't know how.
- >  No, it's to hard 
- >  Maybe, if I try I think I can do it. 
+ 1. >  Yes, but I don't know how.
+ 2. >  No, it's to hard 
+ 3. >  Maybe, if I try I think I can do it. 
 
-Okay, can I ask have you ever heard of **Markdown. 
+Okay, can I ask have you ever heard of **Markdown**. 
 > No 
 
  
