@@ -17,6 +17,17 @@ and creating lists are just a few of the things we can do with Markdown.
 Mostly, Markdown is just regular text with a few non-alphabetic characters throwin, like # or *.
 Your creation become magical in the image of your eyes. 
 
+ ####"With HTML you would put____would but with markdown you put this for headings..."
+Headings
+1. # The largest heading
+2. ## The second largest heading
+3. ###### The smallest heading
+
+######"With HTML you would put____would but with markdown you put this for bold..."
+1. ** This is bold text**
+
+
+##########The is so much more but here is a link to look at [Markdown Heck](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 
