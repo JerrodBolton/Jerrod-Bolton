@@ -1,6 +1,6 @@
 # Introduction
 
- ### what is git
+ ## what is git
 
 1. It's a verion control sysytem
 2. It's let you make changes wheere ever you are. This can you can code out side of you hard wear computer.
@@ -14,7 +14,7 @@
  mmits** mean to save the work that you have done.
    - you can always go back and fix the work that you have done on on the topic.
 
-### what are my output for the ***terminal*** 
+#### what are my output for the ***terminal*** 
 > You have...
     1.git status >what you do know what's going on 
     2.git push  > 
