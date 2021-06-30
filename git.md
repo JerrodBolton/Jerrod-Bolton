@@ -1,6 +1,6 @@
 # Introduction
 
- ### what is git
+ ### what is git? 
 
 1. It's a verion control sysytem
 2. It's let you make changes wheere ever you are. This can you can code out side of you hard wear computer.
