@@ -1,6 +1,6 @@
 # Hey, Coders  
 
-## Do you want make you website fancy
+## Do you want make you website fancygit gt
     - Ues CSS to do so.. 
 
 ### What is CSS
