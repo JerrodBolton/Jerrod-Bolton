@@ -1,6 +1,6 @@
 # JavaScript
 
-** this is a lightweight  JavaScript JS is a lightweight, interpreted, or just-in-time compiled programming 
+* this is a lightweight  JavaScript JS is a lightweight, interpreted, or just-in-time compiled programming
 language with first-class functions.
 
 ### What is alert, prompt, confirm
@@ -12,7 +12,7 @@ language with first-class functions.
 
 ### prompt
 
-** It shows a modal window with a text message, 
+* It shows a modal window with a text message, 
 an input field for the visitor, and the buttons OK/Cancel.
 
  > result = prompt(title, [default]);
@@ -28,5 +28,8 @@ the initial value for the input field.
 
 #### Variables
 
-** Variables are containers for storing data values.
+* Variables are containers for storing data values.
 - In this example, x, y, and z, are variables, declared with the var keyword:
+
+What is do you know js is I thing that Js is when you Store memory
+ within your code
