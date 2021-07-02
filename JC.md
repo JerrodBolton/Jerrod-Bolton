@@ -63,3 +63,42 @@ Type conversion ocurring 2 properties of a value, the value itself, and the type
  * Take something **in** / **out** put something
 
 When you put something in ("") that means the coder said it.
+
+## With JavaScript
+
+ * you have **expression** and **operators**
+ * There are two  more type of styles loops 
+  - For
+  1. The number oof was you want this to happen.
+
+  2. > When is used the amount of times you want the loops to happen.
+
+ - While
+This will continue to happen [until it meets its terms]
+
+
+-
+#### operators
+
+* Assignment operators
+
+That is, x = y assigns the value of y to x.
+
+* Comparison operators
+
+* Arithmetic operators
+
+* Bitwise operators
+
+* Logical operators
+
+* String operators
+
+* Conditional (ternary) operator
+
+* Comma operator
+
+* Unary operators
+
+* Relational operators
+
