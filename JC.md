@@ -29,6 +29,7 @@ the initial value for the input field.
 #### Variables
 
 * Variables are containers for storing data values.
+
 - In this example, x, y, and z, are variables, declared with the var keyword:
 
 >What is do you know js is I thing that Js is when you store memory
