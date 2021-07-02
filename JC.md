@@ -51,7 +51,13 @@ Type conversion ocurring 2 properties of a value, the value itself, and the type
 3 ==“3” <——(String is a collection of characters)
 ### Logical Operators
 :heart:
-&&,  |, ! 
+
+* && means add
+
+* ! means not
+
+* || means or 
+
 
 
 #### What is a functions
