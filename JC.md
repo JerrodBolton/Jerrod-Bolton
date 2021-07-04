@@ -47,7 +47,7 @@ Console.log (iterations%4);
 …
 >, <, >=. <=, ==, ===. !=, !==
 ### What is strictly equals?
-Type conversion ocurring 2 properties of a value, the value itself, and the type of value.
+Type conversion occurring 2 properties of a value, the value itself, and the type of value.
 —————————
 3 ==“3” <——(String is a collection of characters)
 ### Logical Operators
