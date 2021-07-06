@@ -9,20 +9,7 @@ I know and understand that this is some very hard work. After going to college I
 I stayed at Walmart for a year and six months. While working and schooling, I just failed in life, my body mined, and soul couldn’t keep up.
 Therefore I dropped out of school and started at a new job. In the end this new job didn’t go as well. However I knew that was going to happen.
 I stayed there until I found something that inspired me , ***The Collection Blueprint*** and ***Code Crew*** , I’m here with you all and so excited to see what’s next.
-I use a MacBook Pro and the software is Big Sur.
-
-### What are some goals that I may have?
-
-1. To alway have a Growth Mindset
-    - What is a Growth Mind?
-      - A **growth** mindset is a persons ability to learn even when things are hard. They use the fundamental abilities to Learning skills through perseverance and efforts. This person does not get it on the first try. They continue to try throughout their failure; if this person quit at failure they will never get to the next level. If you ever forget what a grown mindset is here is a [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to inform you. 
-
-       - 3 reminders to keep this mindset
-          1. You want *Finance Flexibility* .
-          2. This help you over come challenges.
-          3. No pain, no gain is pure Grown Mindset.
-          4. I will grow at work and outside of work.
-
+I use a MacBook Pro and the software is Big Sur
 ## Everything you have made this will be your portfolio!
 
 1. [Markdown](https://jerrodbolton.github.io/Reading-notes/markdown)
