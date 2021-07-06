@@ -1,18 +1,16 @@
-# WHat is HTML?
+# What is HTML?
 
 - HTML is the Bone structure for your website that you will be designing.
   you will use this to put things on your website. Like... **_tag's_**
 
-  - </head>
+ - </head>
 
-    * this is uesed to lead a something 
+* this is uesed to lead a something 
 
-
-  - <strong> 
-
+ - <strong>
       > Use the bold something.
 
-  - <img>
+- <img>
 
       >  Use the show images.
 
@@ -29,9 +27,8 @@
 
   - <!DOCTYPE html>
 
-      > Needed to start all HTML. 
-
-  - <ul> 
+      > Needed to start all HTML.
+  - <ul>
 
       >Unordered list
 
@@ -39,7 +36,7 @@
 
      > Order list
 
-  - <li> 
+  - <li>
 
      > List items
 
