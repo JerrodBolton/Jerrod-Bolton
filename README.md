@@ -17,4 +17,5 @@ I use a MacBook Pro and the software is Big Sur
 3. [JavaScript](https://jerrodbolton.github.io/Reading-notes/JC)
 4. [Git](https://jerrodbolton.github.io/Reading-notes/git)
 5. [CSS](https://jerrodbolton.github.io/Reading-notes/css)
-6. [Custom Design Website](https://jerrodbolton.github.io/ganny-s/)
+6. [Text Editor](https://jerrodbolton.github.io/Reading-notes/code-compter)
+7. [Custom Design Website](https://jerrodbolton.github.io/ganny-s/)
