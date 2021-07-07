@@ -2,6 +2,8 @@
 
 ## [Who am I ?](https://github.com/JerrodBolton)
 
+[githug](https://github.com/JerrodBolton) and [linkin](https://www.linkedin.com/in/jerrod-bolton-773003197/)
+## [Resume](https://docs.google.com/document/d/1U-svTZ5x5z3QS5OA82O_pvZDf-OfU_NrKEiUi022DEE/edit?usp=sharing)
 Hey, my name is Jerrod Bolton. I hope everyone is doing well today. There isn't a lot to me, well the fact that I am a very hard worker.
 I have some really big dreams; I would love to be the CEO of apple. To tell you where my journey got started was at Southwest  Tennessee Community College.
 I started there the summer of graduating high school in 2019. I did this because I want education to complete my dreams before I get to be 40.
